@@ -2,8 +2,8 @@
     "name": "siicockerill/laravel-chrome-pdf",
     "description": "A wrapper for Laravel around the spiritix/php-chrome-html2pdf libary",
     "require": {
-        "illuminate/support": ">5.5",
-        "illuminate/filesystem": ">5.5",
+        "illuminate/support": ">6.0.*",
+        "illuminate/filesystem": ">6.0.*",
         "php": ">=7.2",
         "spiritix/php-chrome-html2pdf": ">1.3"
     },
