@@ -2,9 +2,9 @@
     "name": "chrisbraybrooke/laravel-chrome-pdf",
     "description": "A wrapper for Laravel around the spiritix/php-chrome-html2pdf libary",
     "require": {
-        "illuminate/support": "5.5.x|5.6.x|5.7.x|5.8.x",
-        "illuminate/filesystem": "5.5.x|5.6.x|5.7.x|5.8.x",
-        "php": ">=7.0",
+        "illuminate/support": "5.5.x|5.6.x|5.7.x|5.8.x|6.0",
+        "illuminate/filesystem": "5.5.x|5.6.x|5.7.x|5.8.x|6.0",
+        "php": ">=7.2",
         "spiritix/php-chrome-html2pdf": "1.3.*"
     },
     "keywords": ["laravel", "chrome", "pdf", "html", "php", "Html2Pdf", "html2pdf", "headless", "puppeteer"],
